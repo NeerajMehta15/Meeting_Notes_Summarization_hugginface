@@ -1,1 +1,1 @@
-# Meeting_Notes_Summarization_hugginface
+# Meeting_Notes_Summarization_Hugginface
