@@ -1,0 +1,13 @@
+prefix=C:/Users/Neeraj.Mehta/Desktop/Projects/RAG_Food_Feedback/Meeting_Notes_Summarization_hugginface/food/Library
+exec_prefix=C:/Users/Neeraj.Mehta/Desktop/Projects/RAG_Food_Feedback/Meeting_Notes_Summarization_hugginface/food/Library
+libdir=C:/Users/Neeraj.Mehta/Desktop/Projects/RAG_Food_Feedback/Meeting_Notes_Summarization_hugginface/food/Library/lib
+sharedlibdir=C:/Users/Neeraj.Mehta/Desktop/Projects/RAG_Food_Feedback/Meeting_Notes_Summarization_hugginface/food/Library/lib
+includedir=C:/Users/Neeraj.Mehta/Desktop/Projects/RAG_Food_Feedback/Meeting_Notes_Summarization_hugginface/food/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,9 @@
+prefix=C:/Users/Neeraj.Mehta/Desktop/Projects/RAG_Food_Feedback/Meeting_Notes_Summarization_hugginface/food/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.15 
